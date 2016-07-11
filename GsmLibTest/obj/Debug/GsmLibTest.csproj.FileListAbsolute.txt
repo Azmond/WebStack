@@ -1,0 +1,7 @@
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\obj\Debug\GsmLibTest.csprojResolveAssemblyReference.cache
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\bin\Debug\GsmLibTest.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\bin\Debug\GsmLibTest.pdb
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\bin\Debug\gsmlib.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\bin\Debug\gsmlib.pdb
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\obj\Debug\GsmLibTest.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\GsmLibTest\obj\Debug\GsmLibTest.pdb

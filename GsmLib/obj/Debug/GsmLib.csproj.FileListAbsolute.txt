@@ -1,0 +1,5 @@
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\bin\Debug\gsmlib.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\bin\Debug\gsmlib.pdb
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\obj\Debug\gsmlib.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\obj\Debug\gsmlib.pdb
+C:\Users\Azmond\Documents\Visual Studio 2015\Projects\testproject\gsmlib\obj\Debug\GsmLib.csprojResolveAssemblyReference.cache

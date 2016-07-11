@@ -1,0 +1,4 @@
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\bin\Release\gsmlib.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\bin\Release\gsmlib.pdb
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\obj\Release\gsmlib.dll
+C:\Users\Azmond\Documents\visual studio 2015\Projects\testproject\gsmlib\obj\Release\gsmlib.pdb
