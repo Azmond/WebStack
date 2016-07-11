@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Управление стеком";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div id="alertmsg" class="alert alert-danger hidden">
+                    !!!
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">Управление стеком</h1><br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-3 col-md-6">
+                    <div class="form-group">
+                        <div class="input-group input-group-sm">
+                            <input id="textdata" type="text" class="form-control" placeholder="Введите текст...">
+                            <span class="input-group-btn">
+                                <button id="pushbtn" class="btn btn-default">Добавить в стек</button>
+                            </span>
+                        </div>
+                    </div>
+                <hr />
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="btn-group btn-group-sm">
+                    <button id="peekbtn" class="btn btn-default">Посмотреть стек</button>
+                    <button id="popbtn" class="btn btn-default">Извлечь стек</button>
+                    <button id="sizebtn" class="btn btn-default">Узнать размер</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@Scripts.Render("~/bundles/stackajax")
